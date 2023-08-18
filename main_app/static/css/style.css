@@ -11,6 +11,7 @@ body {
     display: flex;
     background-color: #BDD6EB;
     color: #BDD6EB;
+    /* padding-left: 10%; */
 }
 
 :root{
